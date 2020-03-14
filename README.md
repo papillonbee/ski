@@ -1,5 +1,7 @@
-# ski 0.0.27
+# ski 0.1.10
 
-A Python package for solving an inventory control problem, retailing skis (Eric V. Denardo[1982]), with Markov Decision Process (MDP), Monte Carlo method (MC), Temporal Difference On-policy method (SARSA), and Temporal Difference Off-policy method (Q-learning)
+(ski)[https://pypi.org/project/ski/] is a Python package for running reinforcement learning (RL) experiments on an inventory control problem called retailing skis (Eric V. Denardo [1982]). The problem is formulated as Markov decision process (MDP) and solved by fundamental RL algorithms including Monte Carlo (MC) method, Sarsa, Q-learning, and double Q-learning in both tabular and value approximation manner.
 
-Please feel free to visit [here](https://github.com/papillonbee/ski/blob/master/ski_0_0_27.ipynb) to see the manual or visit [here](https://pypi.org/project/ski/) for the package repository in PyPI
+(Read quick guide)[https://github.com/papillonbee/ski/blob/master/ski_0_1_10.ipynb]
+
+(Read full paper)[https://github.com/papillonbee/ski/blob/master/ski.pdf]
